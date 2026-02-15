@@ -1,4 +1,4 @@
-# Hi, I'm [Alessanro]! 🎮
+# Hi, I'm [Alessandro]! 🎮
 
 Game Developer (Godot) • Kotlin Developer • Gamer
 
