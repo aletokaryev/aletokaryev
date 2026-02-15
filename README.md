@@ -1,76 +1,63 @@
-# Hi, I'm Alessandro! 🎮💻
+# Hi, I'm [Alessanro]! 🎮
 
-**Android Software Consultant @ Netcom Group**  
-Currently working on **Android Automotive software for Stellantis**
+Game Developer (Godot) • Kotlin Developer • Gamer
 
-Game developer with Godot.  
-Mobile developer with Kotlin.  
-Full-stack inclined.  
-Gamer by DNA.
+I build games because I love them.
 
----
-
-## 👨‍💼 About Me
-
-I design and develop software with a strong focus on:
-- Android systems (automotive & mobile)
-- Game development with Godot Engine
-- Clean architecture & maintainable code
-- Performance-oriented solutions
-
-I work professionally in the automotive domain, contributing to Android-based infotainment systems.  
-Outside of work, I build games, experiment with engines, and explore new technologies.
+Professionally, I work as an Android developer at **Netcom Group** (consulting for Stellantis).
+Personally, I focus on game development and interactive gameplay systems.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎮 Game Development
 
-### 📱 Mobile & Automotive
-- **Kotlin**
-- **Java**
-- Android SDK
-- Android Automotive OS
-- Jetpack libraries
+My main interest is designing and implementing:
 
-### 🎮 Game Development
+- Gameplay systems
+- State machines
+- Player controllers
+- Combat mechanics
+- UI logic
+
+Participated in the GGJ 2026 and the Brackeys GameJam 2026.1!
+
+Engine:
 - **Godot Engine**
 - GDScript
-- Gameplay systems design
-- UI & state-driven architectures
 
-### 🌐 Frontend & Web
-- **Angular**
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
+I care about:
+- Clean gameplay architecture
+- Modularity
+- Performance
 
-### 🧠 Backend & General Purpose
-- **Python**
+---
+
+## 💻 Development Stack
+
+### Languages
+- Kotlin
 - Java
-- REST APIs
-- Automation scripts
+- Python
+- TypeScript
+- JavaScript
+- HTML / CSS
 
-### ⚙️ Tools & Workflow
-- Git
-- CI/CD pipelines
-- Agile methodologies
-- Linux-based environments
+### Mobile
+- Android (Kotlin)
 
----
-
-## 🚀 What I’m Currently Working On
-
-- Android Automotive applications for in-vehicle systems
-- Internal software components in enterprise environments
-- Game prototypes and gameplay mechanics in Godot
+### Web
+- Angular
+- SPA architecture
+- REST integrations
 
 ---
 
-## 🎯 Areas of Interest
+## 🧠 What I Like Building
 
-- Game systems architecture
-- Cross-platform application development
+- Gameplay prototypes
+- Core mechanics before graphics
+- Small tools to speed up workflows
+- Structured codebases instead of messy prototypes
 
 ---
 
@@ -81,13 +68,12 @@ Outside of work, I build games, experiment with engines, and explore new technol
 
 ---
 
-## 🤝 Let's Connect
+## 🕹️ Current Focus
 
-<a href="https://www.linkedin.com/in/TUO-LINKEDIN/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+- Deepening knowledge of Godot internals
+- Improving game architecture patterns
+- Building more playable projects instead of unfinished ideas
 
 ---
 
-> "Code is a system. Games are systems. Cars are systems.  
-> I build systems."
+If you’re here for games, you’re in the right place.
